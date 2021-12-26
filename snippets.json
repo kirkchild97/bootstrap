@@ -1,0 +1,1600 @@
+
+    ".accordion-button": {
+        "prefix": ".accordion-button",
+        "body":[ 
+            ".accordion-button"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".accordion-header": {
+        "prefix": ".accordion-header",
+        "body":[ 
+            ".accordion-header"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".accordion-item": {
+        "prefix": ".accordion-item",
+        "body":[ 
+            ".accordion-item"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".accordion-body": {
+        "prefix": ".accordion-body",
+        "body":[ 
+            ".accordion-body"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".accordion-flush": {
+        "prefix": ".accordion-flush",
+        "body":[ 
+            ".accordion-flush"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".alert": {
+        "prefix": ".alert",
+        "body":[ 
+            ".alert"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".alert-heading": {
+        "prefix": ".alert-heading",
+        "body":[ 
+            ".alert-heading"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".alert-link": {
+        "prefix": ".alert-link",
+        "body":[ 
+            ".alert-link"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".alert-dismissible": {
+        "prefix": ".alert-dismissible",
+        "body":[ 
+            ".alert-dismissible"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".badge": {
+        "prefix": ".badge",
+        "body":[ 
+            ".badge"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".btn": {
+        "prefix": ".btn",
+        "body":[ 
+            ".btn"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".breadcrumb": {
+        "prefix": ".breadcrumb",
+        "body":[ 
+            ".breadcrumb"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".breadcrumb-item": {
+        "prefix": ".breadcrumb-item",
+        "body":[ 
+            ".breadcrumb-item"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".btn-group": {
+        "prefix": ".btn-group",
+        "body":[ 
+            ".btn-group"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".btn-group-vertical": {
+        "prefix": ".btn-group-vertical",
+        "body":[ 
+            ".btn-group-vertical"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".btn-toolbar": {
+        "prefix": ".btn-toolbar",
+        "body":[ 
+            ".btn-toolbar"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".btn-group": {
+        "prefix": ".btn-group",
+        "body":[ 
+            ".btn-group"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".btn-group-sm": {
+        "prefix": ".btn-group-sm",
+        "body":[ 
+            ".btn-group-sm"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".btn-group-lg": {
+        "prefix": ".btn-group-lg",
+        "body":[ 
+            ".btn-group-lg"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".dropdown-toggle-split": {
+        "prefix": ".dropdown-toggle-split",
+        "body":[ 
+            ".dropdown-toggle-split"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".btn-sm": {
+        "prefix": ".btn-sm",
+        "body":[ 
+            ".btn-sm"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".btn-lg": {
+        "prefix": ".btn-lg",
+        "body":[ 
+            ".btn-lg"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".btn-group.show": {
+        "prefix": ".btn-group.show",
+        "body":[ 
+            ".btn-group.show"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".btn-group-vertical": {
+        "prefix": ".btn-group-vertical",
+        "body":[ 
+            ".btn-group-vertical"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".btn": {
+        "prefix": ".btn",
+        "body":[ 
+            ".btn"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".btn-link": {
+        "prefix": ".btn-link",
+        "body":[ 
+            ".btn-link"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".btn-lg": {
+        "prefix": ".btn-lg",
+        "body":[ 
+            ".btn-lg"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".btn-sm": {
+        "prefix": ".btn-sm",
+        "body":[ 
+            ".btn-sm"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".card": {
+        "prefix": ".card",
+        "body":[ 
+            ".card"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".card-body": {
+        "prefix": ".card-body",
+        "body":[ 
+            ".card-body"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".card-title": {
+        "prefix": ".card-title",
+        "body":[ 
+            ".card-title"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".card-subtitle": {
+        "prefix": ".card-subtitle",
+        "body":[ 
+            ".card-subtitle"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".card-text": {
+        "prefix": ".card-text",
+        "body":[ 
+            ".card-text"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".card-link": {
+        "prefix": ".card-link",
+        "body":[ 
+            ".card-link"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".card-header": {
+        "prefix": ".card-header",
+        "body":[ 
+            ".card-header"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".card-footer": {
+        "prefix": ".card-footer",
+        "body":[ 
+            ".card-footer"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".card-header-tabs": {
+        "prefix": ".card-header-tabs",
+        "body":[ 
+            ".card-header-tabs"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".card-header-pills": {
+        "prefix": ".card-header-pills",
+        "body":[ 
+            ".card-header-pills"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".card-img-overlay": {
+        "prefix": ".card-img-overlay",
+        "body":[ 
+            ".card-img-overlay"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".card-img": {
+        "prefix": ".card-img",
+        "body":[ 
+            ".card-img"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".card-img-top": {
+        "prefix": ".card-img-top",
+        "body":[ 
+            ".card-img-top"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".card-img-bottom": {
+        "prefix": ".card-img-bottom",
+        "body":[ 
+            ".card-img-bottom"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".card-img": {
+        "prefix": ".card-img",
+        "body":[ 
+            ".card-img"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".card-img-top": {
+        "prefix": ".card-img-top",
+        "body":[ 
+            ".card-img-top"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".card-img": {
+        "prefix": ".card-img",
+        "body":[ 
+            ".card-img"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".card-img-bottom": {
+        "prefix": ".card-img-bottom",
+        "body":[ 
+            ".card-img-bottom"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".card-group": {
+        "prefix": ".card-group",
+        "body":[ 
+            ".card-group"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".carousel": {
+        "prefix": ".carousel",
+        "body":[ 
+            ".carousel"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".carousel.pointer-event": {
+        "prefix": ".carousel.pointer-event",
+        "body":[ 
+            ".carousel.pointer-event"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".carousel-inner": {
+        "prefix": ".carousel-inner",
+        "body":[ 
+            ".carousel-inner"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".carousel-item": {
+        "prefix": ".carousel-item",
+        "body":[ 
+            ".carousel-item"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".carousel-item.active": {
+        "prefix": ".carousel-item.active",
+        "body":[ 
+            ".carousel-item.active"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".carousel-item-next": {
+        "prefix": ".carousel-item-next",
+        "body":[ 
+            ".carousel-item-next"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".carousel-item-prev": {
+        "prefix": ".carousel-item-prev",
+        "body":[ 
+            ".carousel-item-prev"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".carousel-item-next": {
+        "prefix": ".carousel-item-next",
+        "body":[ 
+            ".carousel-item-next"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".active.carousel-item-end": {
+        "prefix": ".active.carousel-item-end",
+        "body":[ 
+            ".active.carousel-item-end"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".carousel-item-prev": {
+        "prefix": ".carousel-item-prev",
+        "body":[ 
+            ".carousel-item-prev"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".active.carousel-item-start": {
+        "prefix": ".active.carousel-item-start",
+        "body":[ 
+            ".active.carousel-item-start"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".carousel-fade": {
+        "prefix": ".carousel-fade",
+        "body":[ 
+            ".carousel-fade"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".carousel-control-prev": {
+        "prefix": ".carousel-control-prev",
+        "body":[ 
+            ".carousel-control-prev"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".carousel-control-next": {
+        "prefix": ".carousel-control-next",
+        "body":[ 
+            ".carousel-control-next"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".carousel-control-prev": {
+        "prefix": ".carousel-control-prev",
+        "body":[ 
+            ".carousel-control-prev"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".carousel-control-next": {
+        "prefix": ".carousel-control-next",
+        "body":[ 
+            ".carousel-control-next"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".carousel-control-prev-icon": {
+        "prefix": ".carousel-control-prev-icon",
+        "body":[ 
+            ".carousel-control-prev-icon"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".carousel-control-next-icon": {
+        "prefix": ".carousel-control-next-icon",
+        "body":[ 
+            ".carousel-control-next-icon"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".carousel-control-prev-icon": {
+        "prefix": ".carousel-control-prev-icon",
+        "body":[ 
+            ".carousel-control-prev-icon"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".carousel-control-next-icon": {
+        "prefix": ".carousel-control-next-icon",
+        "body":[ 
+            ".carousel-control-next-icon"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".carousel-indicators": {
+        "prefix": ".carousel-indicators",
+        "body":[ 
+            ".carousel-indicators"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".carousel-caption": {
+        "prefix": ".carousel-caption",
+        "body":[ 
+            ".carousel-caption"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".carousel-dark": {
+        "prefix": ".carousel-dark",
+        "body":[ 
+            ".carousel-dark"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".btn-close": {
+        "prefix": ".btn-close",
+        "body":[ 
+            ".btn-close"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".btn-close-white": {
+        "prefix": ".btn-close-white",
+        "body":[ 
+            ".btn-close-white"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".dropup": {
+        "prefix": ".dropup",
+        "body":[ 
+            ".dropup"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".dropend": {
+        "prefix": ".dropend",
+        "body":[ 
+            ".dropend"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".dropdown": {
+        "prefix": ".dropdown",
+        "body":[ 
+            ".dropdown"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".dropstart": {
+        "prefix": ".dropstart",
+        "body":[ 
+            ".dropstart"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".dropdown-toggle": {
+        "prefix": ".dropdown-toggle",
+        "body":[ 
+            ".dropdown-toggle"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".dropdown-menu": {
+        "prefix": ".dropdown-menu",
+        "body":[ 
+            ".dropdown-menu"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".dropup": {
+        "prefix": ".dropup",
+        "body":[ 
+            ".dropup"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".dropend": {
+        "prefix": ".dropend",
+        "body":[ 
+            ".dropend"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".dropstart": {
+        "prefix": ".dropstart",
+        "body":[ 
+            ".dropstart"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".dropdown-divider": {
+        "prefix": ".dropdown-divider",
+        "body":[ 
+            ".dropdown-divider"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".dropdown-item": {
+        "prefix": ".dropdown-item",
+        "body":[ 
+            ".dropdown-item"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".dropdown-menu.show": {
+        "prefix": ".dropdown-menu.show",
+        "body":[ 
+            ".dropdown-menu.show"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".dropdown-header": {
+        "prefix": ".dropdown-header",
+        "body":[ 
+            ".dropdown-header"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".dropdown-item-text": {
+        "prefix": ".dropdown-item-text",
+        "body":[ 
+            ".dropdown-item-text"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".dropdown-menu-dark": {
+        "prefix": ".dropdown-menu-dark",
+        "body":[ 
+            ".dropdown-menu-dark"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".img-fluid": {
+        "prefix": ".img-fluid",
+        "body":[ 
+            ".img-fluid"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".img-thumbnail": {
+        "prefix": ".img-thumbnail",
+        "body":[ 
+            ".img-thumbnail"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".figure": {
+        "prefix": ".figure",
+        "body":[ 
+            ".figure"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".figure-img": {
+        "prefix": ".figure-img",
+        "body":[ 
+            ".figure-img"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".figure-caption": {
+        "prefix": ".figure-caption",
+        "body":[ 
+            ".figure-caption"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".list-group": {
+        "prefix": ".list-group",
+        "body":[ 
+            ".list-group"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".list-group-numbered": {
+        "prefix": ".list-group-numbered",
+        "body":[ 
+            ".list-group-numbered"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".list-group-item-action": {
+        "prefix": ".list-group-item-action",
+        "body":[ 
+            ".list-group-item-action"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".list-group-item": {
+        "prefix": ".list-group-item",
+        "body":[ 
+            ".list-group-item"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".list-group-flush": {
+        "prefix": ".list-group-flush",
+        "body":[ 
+            ".list-group-flush"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".modal": {
+        "prefix": ".modal",
+        "body":[ 
+            ".modal"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".modal-dialog": {
+        "prefix": ".modal-dialog",
+        "body":[ 
+            ".modal-dialog"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".modal-dialog-scrollable": {
+        "prefix": ".modal-dialog-scrollable",
+        "body":[ 
+            ".modal-dialog-scrollable"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".modal-dialog-centered": {
+        "prefix": ".modal-dialog-centered",
+        "body":[ 
+            ".modal-dialog-centered"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".modal-content": {
+        "prefix": ".modal-content",
+        "body":[ 
+            ".modal-content"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".modal-backdrop": {
+        "prefix": ".modal-backdrop",
+        "body":[ 
+            ".modal-backdrop"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".modal-header": {
+        "prefix": ".modal-header",
+        "body":[ 
+            ".modal-header"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".modal-title": {
+        "prefix": ".modal-title",
+        "body":[ 
+            ".modal-title"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".modal-body": {
+        "prefix": ".modal-body",
+        "body":[ 
+            ".modal-body"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".modal-footer": {
+        "prefix": ".modal-footer",
+        "body":[ 
+            ".modal-footer"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".nav": {
+        "prefix": ".nav",
+        "body":[ 
+            ".nav"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".nav-link": {
+        "prefix": ".nav-link",
+        "body":[ 
+            ".nav-link"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".nav-tabs": {
+        "prefix": ".nav-tabs",
+        "body":[ 
+            ".nav-tabs"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".nav-pills": {
+        "prefix": ".nav-pills",
+        "body":[ 
+            ".nav-pills"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".nav-fill": {
+        "prefix": ".nav-fill",
+        "body":[ 
+            ".nav-fill"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".nav-justified": {
+        "prefix": ".nav-justified",
+        "body":[ 
+            ".nav-justified"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".nav-fill": {
+        "prefix": ".nav-fill",
+        "body":[ 
+            ".nav-fill"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".nav-justified": {
+        "prefix": ".nav-justified",
+        "body":[ 
+            ".nav-justified"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".tab-content": {
+        "prefix": ".tab-content",
+        "body":[ 
+            ".tab-content"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".navbar": {
+        "prefix": ".navbar",
+        "body":[ 
+            ".navbar"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".navbar-brand": {
+        "prefix": ".navbar-brand",
+        "body":[ 
+            ".navbar-brand"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".navbar-nav": {
+        "prefix": ".navbar-nav",
+        "body":[ 
+            ".navbar-nav"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".navbar-text": {
+        "prefix": ".navbar-text",
+        "body":[ 
+            ".navbar-text"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".navbar-collapse": {
+        "prefix": ".navbar-collapse",
+        "body":[ 
+            ".navbar-collapse"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".navbar-toggler": {
+        "prefix": ".navbar-toggler",
+        "body":[ 
+            ".navbar-toggler"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".navbar-toggler-icon": {
+        "prefix": ".navbar-toggler-icon",
+        "body":[ 
+            ".navbar-toggler-icon"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".navbar-nav-scroll": {
+        "prefix": ".navbar-nav-scroll",
+        "body":[ 
+            ".navbar-nav-scroll"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".navbar-expand": {
+        "prefix": ".navbar-expand",
+        "body":[ 
+            ".navbar-expand"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".navbar-light": {
+        "prefix": ".navbar-light",
+        "body":[ 
+            ".navbar-light"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".navbar-dark": {
+        "prefix": ".navbar-dark",
+        "body":[ 
+            ".navbar-dark"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".offcanvas": {
+        "prefix": ".offcanvas",
+        "body":[ 
+            ".offcanvas"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".offcanvas-backdrop": {
+        "prefix": ".offcanvas-backdrop",
+        "body":[ 
+            ".offcanvas-backdrop"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".offcanvas-header": {
+        "prefix": ".offcanvas-header",
+        "body":[ 
+            ".offcanvas-header"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".offcanvas-title": {
+        "prefix": ".offcanvas-title",
+        "body":[ 
+            ".offcanvas-title"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".offcanvas-body": {
+        "prefix": ".offcanvas-body",
+        "body":[ 
+            ".offcanvas-body"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".offcanvas-start": {
+        "prefix": ".offcanvas-start",
+        "body":[ 
+            ".offcanvas-start"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".offcanvas-end": {
+        "prefix": ".offcanvas-end",
+        "body":[ 
+            ".offcanvas-end"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".offcanvas-top": {
+        "prefix": ".offcanvas-top",
+        "body":[ 
+            ".offcanvas-top"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".offcanvas-bottom": {
+        "prefix": ".offcanvas-bottom",
+        "body":[ 
+            ".offcanvas-bottom"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".offcanvas.show": {
+        "prefix": ".offcanvas.show",
+        "body":[ 
+            ".offcanvas.show"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".pagination": {
+        "prefix": ".pagination",
+        "body":[ 
+            ".pagination"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".page-link": {
+        "prefix": ".page-link",
+        "body":[ 
+            ".page-link"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".page-item": {
+        "prefix": ".page-item",
+        "body":[ 
+            ".page-item"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".pagination-lg": {
+        "prefix": ".pagination-lg",
+        "body":[ 
+            ".pagination-lg"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".pagination-sm": {
+        "prefix": ".pagination-sm",
+        "body":[ 
+            ".pagination-sm"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".placeholder": {
+        "prefix": ".placeholder",
+        "body":[ 
+            ".placeholder"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".placeholder-xs": {
+        "prefix": ".placeholder-xs",
+        "body":[ 
+            ".placeholder-xs"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".placeholder-sm": {
+        "prefix": ".placeholder-sm",
+        "body":[ 
+            ".placeholder-sm"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".placeholder-lg": {
+        "prefix": ".placeholder-lg",
+        "body":[ 
+            ".placeholder-lg"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".placeholder-glow": {
+        "prefix": ".placeholder-glow",
+        "body":[ 
+            ".placeholder-glow"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".placeholder-wave": {
+        "prefix": ".placeholder-wave",
+        "body":[ 
+            ".placeholder-wave"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".popover": {
+        "prefix": ".popover",
+        "body":[ 
+            ".popover"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".bs-popover-top": {
+        "prefix": ".bs-popover-top",
+        "body":[ 
+            ".bs-popover-top"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".bs-popover-end": {
+        "prefix": ".bs-popover-end",
+        "body":[ 
+            ".bs-popover-end"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".bs-popover-bottom": {
+        "prefix": ".bs-popover-bottom",
+        "body":[ 
+            ".bs-popover-bottom"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".bs-popover-start": {
+        "prefix": ".bs-popover-start",
+        "body":[ 
+            ".bs-popover-start"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".bs-popover-auto": {
+        "prefix": ".bs-popover-auto",
+        "body":[ 
+            ".bs-popover-auto"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".popover-header": {
+        "prefix": ".popover-header",
+        "body":[ 
+            ".popover-header"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".popover-body": {
+        "prefix": ".popover-body",
+        "body":[ 
+            ".popover-body"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".progress": {
+        "prefix": ".progress",
+        "body":[ 
+            ".progress"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".progress-bar": {
+        "prefix": ".progress-bar",
+        "body":[ 
+            ".progress-bar"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".progress-bar-striped": {
+        "prefix": ".progress-bar-striped",
+        "body":[ 
+            ".progress-bar-striped"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".spinner-border": {
+        "prefix": ".spinner-border",
+        "body":[ 
+            ".spinner-border"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".spinner-border-sm": {
+        "prefix": ".spinner-border-sm",
+        "body":[ 
+            ".spinner-border-sm"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".spinner-grow": {
+        "prefix": ".spinner-grow",
+        "body":[ 
+            ".spinner-grow"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".spinner-grow-sm": {
+        "prefix": ".spinner-grow-sm",
+        "body":[ 
+            ".spinner-grow-sm"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".table": {
+        "prefix": ".table",
+        "body":[ 
+            ".table"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".caption-top": {
+        "prefix": ".caption-top",
+        "body":[ 
+            ".caption-top"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".table-sm": {
+        "prefix": ".table-sm",
+        "body":[ 
+            ".table-sm"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".table-bordered": {
+        "prefix": ".table-bordered",
+        "body":[ 
+            ".table-bordered"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".table-borderless": {
+        "prefix": ".table-borderless",
+        "body":[ 
+            ".table-borderless"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".table-striped": {
+        "prefix": ".table-striped",
+        "body":[ 
+            ".table-striped"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".table-active": {
+        "prefix": ".table-active",
+        "body":[ 
+            ".table-active"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".table-hover": {
+        "prefix": ".table-hover",
+        "body":[ 
+            ".table-hover"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".toast": {
+        "prefix": ".toast",
+        "body":[ 
+            ".toast"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".toast-container": {
+        "prefix": ".toast-container",
+        "body":[ 
+            ".toast-container"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".toast-header": {
+        "prefix": ".toast-header",
+        "body":[ 
+            ".toast-header"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".toast-body": {
+        "prefix": ".toast-body",
+        "body":[ 
+            ".toast-body"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".tooltip": {
+        "prefix": ".tooltip",
+        "body":[ 
+            ".tooltip"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".bs-tooltip-top": {
+        "prefix": ".bs-tooltip-top",
+        "body":[ 
+            ".bs-tooltip-top"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".bs-tooltip-end": {
+        "prefix": ".bs-tooltip-end",
+        "body":[ 
+            ".bs-tooltip-end"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".bs-tooltip-bottom": {
+        "prefix": ".bs-tooltip-bottom",
+        "body":[ 
+            ".bs-tooltip-bottom"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".bs-tooltip-start": {
+        "prefix": ".bs-tooltip-start",
+        "body":[ 
+            ".bs-tooltip-start"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".bs-tooltip-auto": {
+        "prefix": ".bs-tooltip-auto",
+        "body":[ 
+            ".bs-tooltip-auto"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".tooltip-inner": {
+        "prefix": ".tooltip-inner",
+        "body":[ 
+            ".tooltip-inner"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".fade": {
+        "prefix": ".fade",
+        "body":[ 
+            ".fade"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".collapse": {
+        "prefix": ".collapse",
+        "body":[ 
+            ".collapse"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".collapsing": {
+        "prefix": ".collapsing",
+        "body":[ 
+            ".collapsing"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".h1": {
+        "prefix": ".h1",
+        "body":[ 
+            ".h1"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".h2": {
+        "prefix": ".h2",
+        "body":[ 
+            ".h2"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".h3": {
+        "prefix": ".h3",
+        "body":[ 
+            ".h3"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".h4": {
+        "prefix": ".h4",
+        "body":[ 
+            ".h4"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".h5": {
+        "prefix": ".h5",
+        "body":[ 
+            ".h5"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".h6": {
+        "prefix": ".h6",
+        "body":[ 
+            ".h6"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".lead": {
+        "prefix": ".lead",
+        "body":[ 
+            ".lead"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".small": {
+        "prefix": ".small",
+        "body":[ 
+            ".small"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".mark": {
+        "prefix": ".mark",
+        "body":[ 
+            ".mark"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".list-unstyled": {
+        "prefix": ".list-unstyled",
+        "body":[ 
+            ".list-unstyled"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".list-inline": {
+        "prefix": ".list-inline",
+        "body":[ 
+            ".list-inline"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".list-inline-item": {
+        "prefix": ".list-inline-item",
+        "body":[ 
+            ".list-inline-item"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".initialism": {
+        "prefix": ".initialism",
+        "body":[ 
+            ".initialism"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".blockquote": {
+        "prefix": ".blockquote",
+        "body":[ 
+            ".blockquote"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    },
+    
+    ".blockquote-footer": {
+        "prefix": ".blockquote-footer",
+        "body":[ 
+            ".blockquote-footer"
+        ],
+        "description": "Bootstrap Simple Snippet"
+    }
